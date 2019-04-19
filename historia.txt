@@ -1,0 +1,5 @@
+                      Historia do Android
+
+O Android foi criado para facilitar os sistemas operacionais de celulares.
+Por ser open source, manutenção aberta e barata, ficou muito popular e praticamente todas as fabricantes de celulares optaram por utilizar.
+Preço baixo e popular, a grande maioria da população possui esse sistema operacional em seus celulares, diferente do celular da maçã que é mais seguro e mais restrito tanto de dados quanto de usuários.
